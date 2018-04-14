@@ -11,6 +11,7 @@ tagline:          'A Place for Social Innovation'
 description:      'Highlighting the beauty and best practice in social innovation'
 url:              http://jonathanhung.github.io/workethic/
 baseurl:          /workethic
+imgurl:          /workethic/assets/images
 
 author:
   name:           'Jonathan Hung'

@@ -9,13 +9,13 @@ permalink:        pretty
 title:            Work Ethic
 tagline:          'A Place for Social Innovation'
 description:      'Highlighting the beauty and best practice in social innovation'
-url:              http://jonathanhung.github.io/workethic/
+url:              http://jonathanhung.github.io
 baseurl:          /workethic
 imgurl:          /workethic/assets/images
 
 author:
   name:           'Jonathan Hung'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/jonathanhung
 
 paginate:         5
 

@@ -19,7 +19,7 @@ title: Mess around with CSS
   <h2> here's some project work I do</h2>
 
   <p> this is a p5js piece of art </p>
-  <a href=""><img class="center" src="{{ site.imgurl }}/myp5art-1.png">
+  <a href="{{ site.url }}/p5-sketches/plotter/"><img class="center" src="{{ site.imgurl }}/myp5art-1.png"></a>
 
 
 </div>
